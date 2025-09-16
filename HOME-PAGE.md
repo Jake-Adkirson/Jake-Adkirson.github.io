@@ -1,3 +1,3 @@
 layout: page
 title: "HOME-PAGE"
-permalink: /homepage
+permalink: /https://jake-adkirson.github.io/homepage
