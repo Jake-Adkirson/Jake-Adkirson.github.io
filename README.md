@@ -15,4 +15,4 @@ PROJECT WORK--------------------------------------------------------------------
 
 FLOAT WITH THE MOST
 
-[[floating-most-woo.png]]
+[Image of project](floating-most-woo.png)
