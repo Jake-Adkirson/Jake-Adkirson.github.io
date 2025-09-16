@@ -1,3 +1,3 @@
 layout: page
-title: "HOME-PAGE"
-permalink: /https://jake-adkirson.github.io/homepage
+title: "RESUME-ACHIEVEMENTS"
+permalink: /resume-achievements
