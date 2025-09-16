@@ -13,6 +13,13 @@ I am currently enrolled in LaunchCode's Software Developement course where I am 
 
 PROJECT WORK---------------------------------------------------------------------------
 
-FLOAT WITH THE MOST
+[FLOAT WITH THE MOST](https://unit-1-final.netlify.app/welcome)
+[REPO](https://github.com/Jake-Adkirson/launchcode-unit-1-final-project-Jacob-A)
+
+Single page React front-end application for campers and floaters to easily schedule and organize their next adventure. I will be creating the back-end for this project later this year.
 
 ![Image of project](floating-most-woo.png)
+
+CONTACT ME---------------------------------------------------------------------------
+[LinkedIn](https://www.linkedin.com/in/jacob-adkirson-8678a2175/)
+
